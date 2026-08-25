@@ -78,7 +78,7 @@ noBtn.addEventListener('click', () => {
 });
 
 yesBtn.addEventListener('click', () => {
-  question.textContent = 'Từ nay tớ có quyền nhớ cậu mỗi ngày rồi nha 😌💕';
+  question.textContent = 'Từ nay em có quyền nhớ chị mỗi ngày rồi nha 😌💕';
   gif.src = 'https://i.pinimg.com/originals/7e/f6/9c/7ef69cd0a6b0b78526c8ce983b3296fc.gif';
   noBtn.style.display = 'none';
   yesBtn.style.display = 'none';
